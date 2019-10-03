@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "reactfeedbackemailer",
+  "private_key_id": "50fff12b8f10cd9c26bf9d0ddd0672fd474ef4c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOWb5TZzzt7OWa\nepJKv0TtaDd6QY/2JBrLMHJIKEKby8fPBfocLYiXB41cTkwPoo5BpoUd0OEtI8pP\nMfQFN1sUJySFz0Mb2551gw6hnikjWBNvuju/HMEljaird4egMALvlKvMnqm7Fkkr\nSU++ZKK+pHNrSJ63YOXLht6S+9+JeKsj2BYmO0S2SWHw4AvNKd6OeX96xc8SYMc9\nKayCtOzrluFcAij8cGtcajD5EP9kHeLjuzU9+FbGlrrTD6Z5MiCsUt2SeNmKwO7A\nIu2Dp6Ju5sHGrTAVOWlXa/QE5xciQrNr7L+am3CUhINRTtxsw0E03MzaSVHFpxud\nc5Ez1AaxAgMBAAECggEAKUtGTjR7ufVNYWOkAPdT2NqhN4MFRzGkdwMD67K62ain\nHKPKkHcAPZESVeWJTRuvsi2buALD/R+LbdvGRID2ZgsLQQfgGyQRCt0mQWuAOgV3\nJkWzjSQ49sXpeh7aclEJVV6AHtulhb4I+HOcVLKY6uPIATEwKexnMBqWUf27lyvF\nqjTmU53V5Yw7DFLUd/0p7sfrahFDdQihHAHy+i9KjB17/fsDpeOpnA4tj2Ov5G8K\nvKpoDvuWKJewpyula/x04kEh5qz8TvXCzYBTrfKN0FVQxgVTcJ+z05zCpL1zQ4mW\n/4GQ+aT94Rss4coaOiQg0oNtTYCtyEoU2k5wFofyTQKBgQDvipUbHRHVr54X3mY9\nnl2hwLHG0I/hpban8MvsXsYl+QmGXsAhirlxTfmn4htjC7F860f48Ol5NIk+fLmx\n02bi4cML+hl+AHDadx4b2ABCda84ajoHOxtUThIhumEdC5ntMNanTuY4IdbCxm+a\nKxo6gUaQ9D/7+HPLuqRavooINwKBgQDch1ni4UKznE3bU5N/Trg2Pw4z835fw8Jr\n4YO8bdQtVuvoDHGvCqofhSSDl/W463dTc7u8oo+dP/S/4L5fx0++QW+guMb81QNa\nKRAKDrEerro86moI8DsAYOyLqMgl/Qho+8/plMVBYtPkyoajrJn1LgxU05c8wiys\nL88Hg5ikVwKBgQDBf6Tq/hSGFRMUHOdiJydjnpD9FUTk9kQSbYWNLxHJYt662JdD\ngRhD2sUtRIzy+WMqkbTV92XiLvoerAolB6w44j340tL84cZH86kyvM2Y4g/k9oph\nhPGSrG4hKLmCCPkSjT0Ycbeu6EbfmARW+TJ6yCsEtQlqtUx06hQR6ZD/CQKBgQCY\nm3Gwd4HZGUknheaEKs1/fJMvkEjbrHRWg3DObJJv7b7Cjhn9r7uapGBoUDhTB19D\n+Mrp9vS7NQ8B2VzkmuCsIExHRJcvT5lKQzA+RXx8Zx2qGe3W0aeC04/d9abL4xZ2\n0AtI8RKv9Nv9b8lMapz/9iXCbcoy2Yxge5Ug9ggjcQKBgEi+QC8b/XWdnwisoa4j\n60BlnJ2pveDXjtqKrF318aubjBMalVprCr+HMAgIOkOPttPDQMe4lD7NzAxE6+8U\nj/3OnoUc1hhvoPihKRlVEVT0heVElesn6LG5TUbFXUV/00ucNKqlp4dOX2IpaFro\nnEh6oEngTMUqX5F4BhGfM6Sa\n-----END PRIVATE KEY-----\n",
+  "client_email": "texttospeech@reactfeedbackemailer.iam.gserviceaccount.com",
+  "client_id": "102212706518687295989",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/texttospeech%40reactfeedbackemailer.iam.gserviceaccount.com"
+}
